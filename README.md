@@ -7,7 +7,7 @@
 
 ## Introdução
 
-Este projeto em Python visa extrair e analisar informações sobre dividendos e juros sobre capital próprio (JCP) pagos por empresas brasileiras. A análise inclui a obtenção de dados de dividendos e JCP, a decodificação de parâmetros codificados em base64, e a comparação de dados obtidos com outras fontes.
+Este projeto em Python visa extrair e analisar informações sobre dividendos e juros sobre capital próprio (JCP) pagos por empresas brasileiras. A análise inclui a obtenção de dados de dividendos e JCP, a decodificação de parâmetros codificados em base64, a comparação de dados obtidos com outras fontes e o calculo do Dividend Yield.
 
 ## Teoria
 
