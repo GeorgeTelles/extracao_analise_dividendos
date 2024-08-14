@@ -68,9 +68,6 @@ A B3 usa codificação base64 para compor URLs de request para obter dados de di
 - [B3 - Empresas Listadas](https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/empresas-listadas.htm)
 - [Rico - Dividendos](https://riconnect.rico.com.vc/blog/dividendos/)
 
-from base64 import b64decode, b64encode
-import pandas as pd
-import requests
-import seaborn as sns
-import matplotlib.pyplot as plt
-import yfinance as yf
+
+![Descrição da Imagem](https://github.com/GeorgeTelles/extracao_analise_dividendos/blob/17737ecd379294749b4fa1892883e2d24843c88f/plot%20dy.png)
+
