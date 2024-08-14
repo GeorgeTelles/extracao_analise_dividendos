@@ -5,6 +5,8 @@
 
 # Extração e Análise de Dividendos com Python
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeTelles/extracao_analise_dividendos/blob/main/Extra%C3%A7%C3%A3o_e_analise_dividendos.ipynb)
+
 ## Introdução
 
 Este projeto em Python visa extrair e analisar informações sobre dividendos e juros sobre capital próprio (JCP) pagos por empresas brasileiras. A análise inclui a obtenção de dados de dividendos e JCP, a decodificação de parâmetros codificados em base64, a comparação de dados obtidos com outras fontes e o calculo do Dividend Yield.
